@@ -19,7 +19,7 @@ export const Navbar = () => {
                         </Link>
                     </Button>
                 </div>
-            </div>
+            </div> 
         </div>
     )
 }
